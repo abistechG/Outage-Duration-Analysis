@@ -1,8 +1,8 @@
 # Predicting Power Outage Duration from Temperature Anomalies
 
 **Name**: Abyesolome Assefa  
-**Email**: [abistech@umich.edu]  
-**Website**: [https://abistechg.github.io/Outage-Duration-Analysis]
+**Email**: abistech@umich.edu 
+**Website**: https://abistechg.github.io/Outage-Duration-Analysis
 
 ---
 
